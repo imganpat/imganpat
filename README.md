@@ -1,7 +1,6 @@
 
   <h2 align="center" >Hi👋! My name is Ganpat.</h2>
-  <h3 align="center" >I am BCA student...</h3>
-  <h5 align="center" >From Pune, Maharashtra.</h5>
+  <hr>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
