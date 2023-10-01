@@ -3,7 +3,7 @@
   <h3 align="center">I am BCA student...</h3>
   <h5 align="center">From Pune, Maharashtra.</h5>
 
-  <img align="center" display="block" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img align="center" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   
 </div>
 
