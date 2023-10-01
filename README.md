@@ -1,5 +1,4 @@
-
-  <h2 align="center" >Hi👋! My name is Ganpat.</h2>
+<h2 align="center" >Hi👋! My name is Ganpat.</h2>
   <hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -15,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-<div align="center">
+<div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
