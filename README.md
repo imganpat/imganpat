@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imganpat/imganpat/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/imganpat/imganpat/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
