@@ -1,9 +1,11 @@
-<h2 align="center">Hi👋! My name is Ganpat.</h2>
-<h3 align="center">I am BCA student...</h3>
-<h5 align="center">From Pune, Maharashtra.</h5>
+<div>
+  <h2 align="left">Hi👋! My name is Ganpat.</h2>
+  <h3 align="left">I am BCA student...</h3>
+  <h5 align="left">From Pune, Maharashtra.</h5>
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
+</div>
 ###
 
 <div align="center">
