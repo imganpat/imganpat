@@ -1,6 +1,6 @@
 <h2 align="center">Hi👋! My name is Ganpat.</h2>
-<h3 align="center">I am BCA student.</h3>
-<h4 align="center">From Pune, Maharashtra.</h4>
+<h3 align="center">I am BCA student...</h3>
+<h5 align="center">From Pune, Maharashtra.</h5>
 
 ###
 
