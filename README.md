@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=imganpat&theme=github_dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imganpat&theme=github-dark&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
